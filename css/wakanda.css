@@ -38,6 +38,16 @@ body {
 }
 
 /*milieu 1 */
-.milieu1{
-    display: flex;
+.wakanda1{
+    width: 1550px;
+    height: 900px;
+    margin-left: -10%;
+    margin-top: -3%;
+}
+
+.gauche{
+    color: white;
+    margin-top: -40%;
+    margin-left: 8%;
+    width: 500px;
 }
