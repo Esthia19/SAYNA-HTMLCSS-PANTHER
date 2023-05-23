@@ -132,6 +132,20 @@ p{
     margin-left: 6%;
 }
 
+
+.case{
+    width: 380px;
+    
+    height:200px;
+    background-color: #3D2DA6;
+    text-align: center;
+    padding-top: 4%;
+}
+
+a{
+    color: white;
+    size: 10px;
+}
 /*footer*/
 
 footer{
