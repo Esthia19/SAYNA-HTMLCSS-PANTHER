@@ -1,14 +1,18 @@
 
 body {
-    color:black;
-    background-color:white;
+
     background-image:url(../illustration/ofpages/background.png);
     }
 
-    /* navabar */
+    /* header */
 
 .logo {
     margin-top: 2%;
+    margin-left: 4%;
+}
+
+.piclogo{
+    width: 60px;
 }
 
 .menu {
@@ -31,6 +35,248 @@ body {
     margin-top: -2%;
 }
 
+/* milieu1 */
+
 .milieu1{
     display: flex;
+}
+
+
+.pantherhome1{
+    width: 900px;
+    height: auto;
+}
+
+.middle{
+    color: white;
+    margin-left: 4%;
+    margin-top: 15%;
+    
+}
+
+.right{
+    margin-top: 20%;
+}
+
+h1{
+    font-size: 40px;
+}
+a{
+    color: white;
+}
+
+
+/* milieu2 */
+
+.milieu2{
+    display: flex;
+    background-color: #021740;
+    color: white;
+    margin-left: 5%;
+    height:220px;
+   
+    
+
+}
+
+.pantherhome2{
+    width: 230px;
+    margin-top: -10%;
+    margin-left: 8%;
+}
+
+.pantherhome3{
+    width: 190px;
+}
+
+.pantherhome4{
+    width: 140px;
+}
+.deux{
+    margin-left: 4%;
+    margin-right: 2%;
+}
+
+.txt{
+    font-size: 13px;
+}
+
+
+/* milieu3 */
+
+.milieu3{
+    display: flex;
+    color: white;
+    margin-top: 14%;
+    margin-left: 8%;
+}
+
+.droite{
+    margin-right: 15%;
+}
+
+.gauche{
+    background-color: #FFFFFF;
+    margin-right: 9%;
+    border-radius: 6px;
+    color: black;
+   
+    padding-left: 10%;
+    height: 650px;
+    margin-top: 10%;
+
+}
+
+.pantherhome5{
+    width: 250px;
+    margin-top: -35%;
+    margin-left: -10%;
+    
+}
+
+.btn{
+    display: flex;
+    margin-left: -12%;
+}
+
+.bouton{
+    font-size: 60%;
+    background-color: #3D2DA6;
+    color: #FFFFFF;
+    border-radius: 3px;
+    border-color: rgba(255, 255, 255, 0);
+    height: 25px;
+}
+
+.txt1{
+    margin-left: 15%;
+}
+
+.txt2{
+    margin-left: -15%;
+    font-size:12px ;
+    margin-right: 7%;
+}
+
+p{
+    font-size: 16px;
+}
+
+.pic{
+    margin-top: 200px;
+    margin-left: -7%;
+}
+
+.pantherhome6{
+    width: 300px;
+}
+
+
+/*formulaire*/
+
+.milieu4{
+   color: #FFFFFF;
+   margin-top: -40%;
+   background-color:#ffffffef ;
+   width: 600px;
+   height: 450px;
+   text-align: center;
+   border-radius: 100px;
+   padding-top: 3%;
+   margin-left: 30%;
+}
+
+.txt3{
+    color: black;
+}
+
+.pantherhome7{
+    width: 1300px;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border-radius:38px ;
+    background-color: #ffffff2f;
+    padding-left: 2%;
+    border-color: #080808c2;
+   
+}
+::placeholder{
+    color: #021740;
+}
+
+.message{
+    height:120px ;
+}
+
+.envoyer{
+    width: 150px;
+    height: 40px;
+    border-radius: 38px;
+    background-color:#F2CEF2;
+
+
+}
+
+/*
+.envoyer :hover {
+     box-shadow: #021740 ;
+}
+*/
+
+
+/*footer*/
+
+footer{
+    background-image: url(../illustration/ofpages/back_footer.png);
+    color: white;
+    margin-top: 15%;
+    display: flex;
+    height: 360px;
+    padding-top: 10%;
+}
+
+.footer1{
+    width:200px;
+    margin-left: 20%;
+}
+
+.logo1{
+    margin-top: -75%;
+    margin-left: 40%;
+}
+.photo{
+    margin-left: 20%;
+}
+
+
+.page{
+    margin-left: 10%;
+}
+
+.rs{
+    margin-left:15% ;
+}
+
+.picft{
+    width: 35px;
+}
+
+.txt4{
+font-size: 22px;
+letter-spacing: 28%;
+}
+
+.txt5{
+    color: white;
+    margin-top: -15%;
+    margin-left: 45%;
+    font-size: 12px;
+}
+
+em{
+    font-size: 100px;
+    padding-right:-30%;
+    padding-left: 5%;
 }
