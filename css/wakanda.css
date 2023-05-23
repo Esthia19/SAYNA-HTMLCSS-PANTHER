@@ -1,0 +1,43 @@
+body {
+
+    background-image:url(../illustration/ofpages/background.png);
+    }
+
+    p{
+        font-size: 16px;
+    }
+    /* header */
+
+.logo {
+    margin-top: 2%;
+    margin-left: 4%;
+}
+
+.piclogo{
+    width: 60px;
+}
+
+.menu {
+    display: flex;              /* Transformation en flexbox */
+    padding:0;                  /* Suppression des marges internes */
+}
+
+.menu li {
+    list-style-type: none ;       /* Suppression des puces */
+}
+
+.menu a {
+    display:block;                /* Transformation en block */
+    min-width: 120px;             /* Largeur minimale des liens */
+    color: white;
+}
+
+.navbar{
+    margin-left: 70%;
+    margin-top: -2%;
+}
+
+/*milieu 1 */
+.milieu1{
+    display: flex;
+}
