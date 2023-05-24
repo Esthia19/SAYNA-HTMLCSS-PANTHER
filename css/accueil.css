@@ -4,6 +4,15 @@ body {
     background-image:url(../illustration/ofpages/background.png);
     }
 
+    h2{
+        font-family:'BEYNO', sans-serif;
+        
+    }
+
+    p{
+        font-size: 16px;
+        font-family: 'Cantarell', sans-serif;
+    }
     /* header */
 
 .logo {
@@ -28,6 +37,7 @@ body {
     display:block;                /* Transformation en block */
     min-width: 120px;             /* Largeur minimale des liens */
     color: white;
+    font-family: 'BEYNO', sans-serif;
 }
 
 .navbar{
@@ -41,6 +51,10 @@ body {
     display: flex;
 }
 
+h1{
+    font-family: 'Panthera', sans-serif;
+    font-size: 60px;
+}
 
 .pantherhome1{
     width: 900px;
@@ -49,8 +63,8 @@ body {
 
 .middle{
     color: white;
-    margin-left: 4%;
-    margin-top: 15%;
+    margin-left: 6%;
+    margin-top: 12%;
     
 }
 
@@ -150,6 +164,7 @@ a{
 
 .txt1{
     margin-left: 15%;
+    font-family: 'Cantarell', sans-serif;
 }
 
 .txt2{
@@ -158,9 +173,7 @@ a{
     margin-right: 7%;
 }
 
-p{
-    font-size: 16px;
-}
+
 
 .pic{
     margin-top: 200px;
@@ -188,6 +201,7 @@ p{
 
 .txt3{
     color: black;
+    font-family:'Cantarell', sans-serif ;
 }
 
 .pantherhome7{
@@ -264,8 +278,8 @@ footer{
 }
 
 .txt4{
-font-size: 22px;
-letter-spacing: 28%;
+font-size: 17px;
+letter-spacing: 9px;
 }
 
 .txt5{
